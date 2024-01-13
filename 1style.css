@@ -4,8 +4,6 @@ form {
   backdrop-filter: blur(50px);
   border-radius: 15px;
 }
-
-/* Full-width inputs */
 input[type=text], input[type=password] {
   width: 97%;
   padding: 15px 10px;
@@ -14,7 +12,6 @@ input[type=text], input[type=password] {
   border: 1px solid #ccc;
   border-radius:5px
 }
-/* Set a style for all buttons */
 button {
   background-color: #04AA6D;
   color: white;
